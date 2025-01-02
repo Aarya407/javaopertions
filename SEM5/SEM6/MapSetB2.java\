@@ -1,7 +1,0 @@
-import java.util.*;
-public class MapSetB2
-{
-	public static void main(String [] args)
-	{
-		HashMap<Object,String> hm= new HashMap<Object,String> ();
-		
